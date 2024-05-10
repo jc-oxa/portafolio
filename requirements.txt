@@ -1,0 +1,9 @@
+asgiref
+coverage
+Django
+flake8
+mccabe
+Pillow
+pycodestyle
+pyflakes
+sqlparse
